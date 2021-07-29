@@ -17,6 +17,7 @@
 
 - [Django React Datta PRO](https://appseed.us/product/django-react-datta-able-pro) - product page
 - [Django React Datta PRO](https://django-react-datta-able-pro.appseed-srv1.com) - LIVE Demo
+- [Django React Datta PRO](https://docs.appseed.us/products/react/django-datta-able-pro) - product documentation
 - [Django API Server](https://github.com/app-generator/api-server-server) - the backend server 
 - Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
 
