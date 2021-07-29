@@ -1,4 +1,4 @@
-# [Django React Datta Able PRO](https://appseed.us/product/django-react-datta-able-pro)
+# [Django React Datta PRO](https://appseed.us/product/django-react-datta-able-pro)
 
 **Datta Able** is a premium **React Dashboard** that provides a colorful and modern design. Datta Able React PRO is the most stylized React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
@@ -15,8 +15,8 @@
 
 > Links
 
-- [Django React Datta Able PRO](https://appseed.us/product/django-react-datta-able-pro) - product page
-- [Django React Datta Able PRO](https://django-react-datta-able-pro.appseed-srv1.com) - LIVE Demo
+- [Django React Datta PRO](https://appseed.us/product/django-react-datta-able-pro) - product page
+- [Django React Datta PRO](https://django-react-datta-able-pro.appseed-srv1.com) - LIVE Demo
 - [Django API Server](https://github.com/app-generator/api-server-server) - the backend server 
 - Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
 
@@ -121,4 +121,4 @@ const config = {
 <br />
 
 ---
-[Django React Datta Able PRO](https://appseed.us/product/django-react-datta-able-pro) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[Django React Datta PRO](https://appseed.us/product/django-react-datta-able-pro) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
