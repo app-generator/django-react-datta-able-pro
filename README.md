@@ -22,7 +22,7 @@
 
 <br >
 
-![Django React Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/125737710-834a9e6f-c39b-4f3b-a42a-9583ce2ce1da.png)
+![Django React Datta Able PRO - Full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/127490429-45d8eaa4-2b78-4394-99d1-4f63307752f1.png)
 
 <br />
 
